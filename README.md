@@ -4,16 +4,6 @@
 
 </div>
 
-<div align="center">
-
-[![contributors](https://img.shields.io/github/contributors/abdelrahman0123/Matrix-Flatten)](https://github.com/abdelrahman0123/Matrix-Flatten/contributors)
-[![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE)
-[![forks](https://img.shields.io/github/forks/abdelrahman0123/Matrix-Flatten)](https://github.com/abdelrahman0123/Matrix-Flatten/network)
-[![stars](https://img.shields.io/github/stars/abdelrahman0123/Matrix-Flatten)](https://github.com/abdelrahman0123/Matrix-Flatten/stargazers)
-[![issues](https://img.shields.io/github/issues/abdelrahman0123/Matrix-Flatten)](https://github.com/abdelrahman0123/Matrix-Flatten/issues)
-
-</div>
-
 A 3D matrix is to be stored in a 1D vector (flattened).
 ## Description
 * Convert the 3D matrix index (i, j, k) to a suitable 1D vector index (y). Must be O(1).
@@ -56,7 +46,7 @@ gcc main.cpp
 <tr>
 <td align="center">
 <a href="https://github.com/abdelrahman0123" target="_black">
-<img src="https://avatars.githubusercontent.com/u/68310502?v=4" width="150px;" alt="Abdelrahman Hamdy"/><br /><sub><b>Abdelrahman Hamdy</b></sub></a><br />
+<img src="https://avatars.githubusercontent.com/u/67989900?v=4" width="150px;" alt="Abdelrahman Hamdy"/><br /><sub><b>Abdelrahman Hamdy</b></sub></a><br />
 </td>
 </tr>
  </table>
