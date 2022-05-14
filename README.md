@@ -2,6 +2,8 @@
 
 # Matrix Flatten
 
+ <img src="screenshots/task3.jpg">
+ 
 </div>
 
 ## 📙 About
