@@ -31,13 +31,15 @@ gcc main.cpp
 ### Screenshots
 
 #### Fill 3D matrix with unique numbers
-![start](screenshots/1.png)
+![start](screenshots/1.jpg)
 
 #### Convert 3D matrix into 1D vector using the formula y = i * m * p + j * p + k
-![start](screenshots/2.png)
+![start](screenshots/2.jpg)
 
 #### Test random cases
-![start](screenshots/3.png)
+![start](screenshots/3.jpg)
+![start](screenshots/4.jpg)
+![start](screenshots/5.jpg)
 
 
 ## Contributors
@@ -45,7 +47,7 @@ gcc main.cpp
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/abdelrahman0123" target="_black">
+<a href="https://github.com/abdelrahman0123" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/67989900?v=4" width="150px;" alt="Abdelrahman Hamdy"/><br /><sub><b>Abdelrahman Hamdy</b></sub></a><br />
 </td>
 </tr>
