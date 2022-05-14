@@ -5,7 +5,7 @@
 </div>
 
 ## 📙 About
-A 3D matrix is to be stored in a 1D vector (flattened).
+* A 3D matrix is to be stored in a 1D vector (flattened).
 ## 📝 Description
 * Convert the 3D matrix index (i, j, k) to a suitable 1D vector index (y). Must be O(1).
 
