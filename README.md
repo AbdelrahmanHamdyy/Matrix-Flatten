@@ -19,11 +19,11 @@
 - The indexing formula for the conversion from 3D element position to 1D is y = (i * m * p) + (j * p) + k
 - The complexity of looping through the 3D vector is **O(n\*m\*p)** = **O(N)** where N is the number of elements 
 
-### Dependencies
+## Dependencies
 
 * C++
 
-### 💻 Installing
+## 💻 Installing
 
 ```
 git clone https://github.com/abdelrahman0123/Matrix-Flatten 
