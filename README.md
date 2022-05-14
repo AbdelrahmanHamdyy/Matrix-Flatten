@@ -4,17 +4,18 @@
 
 </div>
 
+## 📙 About
 A 3D matrix is to be stored in a 1D vector (flattened).
-## Description
+## 📝 Description
 * Convert the 3D matrix index (i, j, k) to a suitable 1D vector index (y). Must be O(1).
 
-## Getting Started
+## 🏁 Getting Started
 
 ### Dependencies
 
 * C++
 
-### Installing
+### 💻 Installing
 
 ```
 git clone https://github.com/abdelrahman0123/Matrix-Flatten 
@@ -28,7 +29,7 @@ g++ Main.cpp
 ./a.out
 ```
 
-### Screenshots
+### 📷 Screenshots
 
 #### Fill 3D matrix with unique numbers
 ![start](screenshots/1.jpg)
