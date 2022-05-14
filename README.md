@@ -21,7 +21,7 @@ git clone https://github.com/abdelrahman0123/Matrix-Flatten
 ```
 
 ```
-gcc main.cpp
+g++ main.cpp
 ```
 
 ```
