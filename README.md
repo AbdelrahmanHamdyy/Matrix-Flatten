@@ -26,7 +26,7 @@
 ## 💻 Installing
 
 ```
-git clone https://github.com/abdelrahman0123/Matrix-Flatten 
+git clone https://github.com/AbdelrahmanHamdyy/Matrix-Flatten 
 ```
 
 ```
